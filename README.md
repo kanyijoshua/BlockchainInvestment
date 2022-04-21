@@ -19,5 +19,7 @@ node .\index.js
 
 ## Design approach
 I used promises for asynchronous coding and easy error catching
+
 I used the papaparse library since the fastest recommended CSV editor from the performance benchmarks
+
 I used the yargs library for easy cmd parameters fetching
