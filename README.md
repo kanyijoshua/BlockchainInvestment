@@ -1,6 +1,7 @@
 # CryptoInvestor
 ## App usage
 clone the repository and install the packages in package.json
+
 make Sure the transactions.csv is on the same directory as the project
 
 ### cmd parameters
